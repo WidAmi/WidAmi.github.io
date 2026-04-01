@@ -4,7 +4,7 @@ title: "Vibe Coded WiFi Monitor"
 date: 2026-03-31
 ---
 
-So this is something I had been kicking around in my head for a while but was able to bring to life in an evening using Claude Code. I did some fine tuning later on, but the bulk of this was built in just a few hours after dinner.
+So this is something I had been kicking around in my head for a while but was able to bring to life in an evening using Claude Code. I did some fine tuning later on, but the bulk of this was built in just a few hours after dinner. If you want to skip to the code, it can be found at [wifi_monitor](https://github.com/WidAmi/wifi_monitor) on GitHub.
 
 [![WiFi Overview Dashboard](https://raw.githubusercontent.com/WidAmi/wifi_monitor/main/screenshots/wifi-overview-1.png)](https://github.com/WidAmi/wifi_monitor)
 
