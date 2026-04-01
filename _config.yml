@@ -1,0 +1,7 @@
+title: David Mitchell's Blog
+description: My thoughts, ideas, and notes. Mostly about AI experiments and projects
+url: "https://widami.github.io"
+
+theme: minima
+
+permalink: /:year/:month/:day/:title/
